@@ -1,5 +1,5 @@
-# Tools Tinyurl By Wanz Xploit
-# Boleh Di Pelajari
+##### Tools Tinyurl By Wanz Xploit
+#### Boleh Di Pelajari
 
 #### Tools ini adalah tools mempersingkat url tanpa batas.
 
