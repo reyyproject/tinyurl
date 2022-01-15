@@ -6,6 +6,8 @@
 # INSTALL
 ```
 $ apt update && apt upgrade -y
+$ pkg install bash -t
+$ pkg install python && pkg install python2 -y
 $ pkg install git -y
 $ git clone https://github.com/reyyproject/tinyurl
 $ cd tinyurl
